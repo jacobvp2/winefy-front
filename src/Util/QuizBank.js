@@ -1,0 +1,18 @@
+export let questionBank = [
+    "I like to share my ideas with others.",
+    "I rely on my intuition and experience more than facts.",
+    "I like to think things through.",
+    "I like to try new things.",
+    "I tend to work alone.",
+    "I am a visual learner.",
+    "I feel uneasy if my actions disrupt harmony in my social circle.",
+    "I like to complete my work before playing.",
+    "I feel comfortable in crowds.",
+    "I solve problems by leaping between different ideas and possibilities.",
+    "I don't let other people influence my thoughts or actions.",
+    "I can easily adjust to a change in decision.",
+    "I don't like going to parties.",
+    "I like to try things out myself.",
+    "I always express concern for others when making decisions.",
+    "I think carefully before I make decisions.",
+]
