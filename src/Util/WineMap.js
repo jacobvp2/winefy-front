@@ -85,192 +85,192 @@ export const wineMap = {
         red: {
             name: "Pinot Noir",
             desc: wines['Pinot Noir'].desc,
-            why: wines['Pinot Noir'].desc,
+            why: wines['Pinot Noir'].why,
         },
         white: {
             name: "Sherry",
             desc: wines['Sherry'].desc,
-            why: wines['Sherry'].desc,
+            why: wines['Sherry'].why,
         }
     },
     INTP: {
         red: {
             name: "Syrah/Shiraz",
             desc: wines['Syrah/Shiraz'].desc,
-            why: wines['Syrah/Shiraz'].desc,
+            why: wines['Syrah/Shiraz'].why,
         },
         white: {
             name: "Cortese",
             desc: wines['Cortese'].desc,
-            why: wines['Cortese'].desc,
+            why: wines['Cortese'].why,
         }
     },
     ESTP: {
         white: {
             name: "Sauvignon Blanc",
             desc: wines['Sauvignon Blanc'].desc,
-            why: wines['Sauvignon Blanc'].desc,
+            why: wines['Sauvignon Blanc'].why,
         },
         red: {
             name: "Cabernet Sauvignon",
             desc: wines['Cabernet Sauvignon'].desc,
-            why: wines['Cabernet Sauvignon'].desc,
+            why: wines['Cabernet Sauvignon'].why,
         }
     },
     ENFP: {
         white: {
             name: "Pinot Grigio",
             desc: wines['Pinot Grigio'].desc,
-            why: wines['Pinot Grigio'].desc,
+            why: wines['Pinot Grigio'].why,
         },
         red: {
             name: "Zinfandel",
             desc: wines['Zinfandel'].desc,
-            why: wines['Zinfandel'].desc,
+            why: wines['Zinfandel'].why,
         }
     },
     ENTJ: {
         white: {
             name: "Chardonnay",
             desc: wines['Chardonnay'].desc,
-            why: wines['Chardonnay'].desc,
+            why: wines['Chardonnay'].why,
         },
         red: {
             name: "Chianti",
             desc: wines['Chianti'].desc,
-            why: wines['Chianti'].desc,
+            why: wines['Chianti'].why,
         }
     },
     ISTP: {
         white: {
             name: "Moscato",
             desc: wines['Moscato'].desc,
-            why: wines['Moscato'].desc,
+            why: wines['Moscato'].why,
         },
         red: {
             name: "Malbec",
             desc: wines['Malbec'].desc,
-            why: wines['Malbec'].desc,
+            why: wines['Malbec'].why,
         }
     },
     INFP: {
         white: {
             name: "Semillon",
             desc: wines['Semillon'].desc,
-            why: wines['Semillon'].desc,
+            why: wines['Semillon'].why,
         },
         red: {
             name: "Merlot",
             desc: wines['Merlot'].desc,
-            why: wines['Merlot'].desc,
+            why: wines['Merlot'].why,
         }
     },
     INTJ: {
         white: {
             name: "Sauvignon Blanc",
             desc: wines['Sauvignon Blanc'].desc,
-            why: wines['Sauvignon Blanc'].desc,
+            why: wines['Sauvignon Blanc'].why,
         },
         red: {
             name: "Cabernet Sauvignon",
             desc: wines['Cabernet Sauvignon'].desc,
-            why: wines['Cabernet Sauvignon'].desc,
+            why: wines['Cabernet Sauvignon'].why,
         }
     },
     ISFP: {
         white: {
             name: "Cortese",
             desc: wines['Cortese'].desc,
-            why: wines['Cortese'].desc,
+            why: wines['Cortese'].why,
         },
         red: {
             name: "Syrah/Shiraz",
             desc: wines['Syrah/Shiraz'].desc,
-            why: wines['Syrah/Shiraz'].desc,
+            why: wines['Syrah/Shiraz'].why,
         }
     },
     ISTJ: {
         white: {
             name: "Riesling",
             desc: wines['Riesling'].desc,
-            why: wines['Riesling'].desc,
+            why: wines['Riesling'].why,
         },
         red: {
             name: "Sangiovese",
             desc: wines['Sangiovese'].desc,
-            why: wines['Sangiovese'].desc,
+            why: wines['Sangiovese'].why,
         }
     },
     ISFJ: {
         white: {
             name: "Chardonnay",
             desc: wines['Chardonnay'].desc,
-            why: wines['Chardonnay'].desc,
+            why: wines['Chardonnay'].why,
         },
         red: {
             name: "Chianti",
             desc: wines['Chianti'].desc,
-            why: wines['Chianti'].desc,
+            why: wines['Chianti'].why,
         }
     },
     ESFP: {
         white: {
             name: "Riesling",
             desc: wines['Riesling'].desc,
-            why: wines['Riesling'].desc,
+            why: wines['Riesling'].why,
         },
         red: {
             name: "Sangiovese",
             desc: wines['Sangiovese'].desc,
-            why: wines['Sangiovese'].desc,
+            why: wines['Sangiovese'].why,
         }
     },
     ESTJ: {
         white: {
             name: "Pinot Grigio",
             desc: wines['Pinot Grigio'].desc,
-            why: wines['Pinot Grigio'].desc,
+            why: wines['Pinot Grigio'].why,
         },
         red: {
             name: "Zinfandel",
             desc: wines['Zinfandel'].desc,
-            why: wines['Zinfandel'].desc,
+            why: wines['Zinfandel'].why,
         }
     },
     ESFJ: {
         white: {
             name: "Sherry",
             desc: wines['Sherry'].desc,
-            why: wines['Sherry'].desc,
+            why: wines['Sherry'].why,
         },
         red: {
             name: "Sherry",
             desc: wines['Sherry'].desc,
-            why: wines['Sherry'].desc,
+            why: wines['Sherry'].why,
         }
     },
     ENFJ: {
         white: {
             name: "Moscato",
             desc: wines['Moscato'].desc,
-            why: wines['Moscato'].desc,
+            why: wines['Moscato'].why,
         },
         red: {
             name: "Malbec",
             desc: wines['Malbec'].desc,
-            why: wines['Malbec'].desc,
+            why: wines['Malbec'].why,
         }
     },
     INFJ: {
         white: {
             name: "Semillon",
             desc: wines['Semillon'].desc,
-            why: wines['Semillon'].desc,
+            why: wines['Semillon'].why,
         },
         red: {
             name: "Merlot",
             desc: wines['Merlot'].desc,
-            why: wines['Merlot'].desc,
+            why: wines['Merlot'].why,
         }
     },
 }
