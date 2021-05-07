@@ -23,17 +23,17 @@ const Twitter = ({ username, setUsername }) => {
         },
         "X-Requested-With": "XMLHttpRequest",
       });
-    Axios.defaults.baseURL = "http://127.0.0.1:5000/"
+    Axios.defaults.baseURL = "https://mock-backend-server.herokuapp.com/"
 
     const getPersonality = (handle) => {
         if (handle.substring(0,1) === '@') {
             handle = handle.substring(1);
         }
         let personality = "INFP"
-        api.post('/tweet_pred', {
+        api.post('/predict', {
             'handle': handle
         }).then((res) => {
-            personality = res.data.type
+            personality = res.data;
         }).catch((err) => {
             console.log(err)
         }).then(() => {
